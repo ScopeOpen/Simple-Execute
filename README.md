@@ -7,4 +7,4 @@ Sometimes I'm making stuff in python that requires execution of scripts in a dri
 # Screenshots
 ![Base Code](hhttps://cdn.discordapp.com/attachments/898372608444207155/921298057109340230/unknown.png)
 
-![Example Code](https://cdn.discordapp.com/attachments/898372608444207155/921297706494857256/unknown.png)
+![Example Code](https://cdn.discordapp.com/attachments/898372608444207155/921298057109340230/unknown.png)
