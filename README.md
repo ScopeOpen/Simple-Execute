@@ -6,8 +6,8 @@ Sometimes I'm making stuff in python that requires execution of scripts in a dri
 
 # Screenshots
 
-Base Code
+**Base Code**
 ![Base Code](https://cdn.discordapp.com/attachments/898372608444207155/921298057109340230/unknown.png)
 
-Example Code
+**Example Code**
 ![Example Code](https://cdn.discordapp.com/attachments/898372608444207155/921298057109340230/unknown.png)
